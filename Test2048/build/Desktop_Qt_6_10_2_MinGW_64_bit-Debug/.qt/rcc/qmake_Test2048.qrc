@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Test2048">
+    <file alias="qmldir">C:/Users/aurel/Documents/GitHub/2048-FINAL/Test2048/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Test2048/qmldir</file>
+  </qresource>
+</RCC>
+

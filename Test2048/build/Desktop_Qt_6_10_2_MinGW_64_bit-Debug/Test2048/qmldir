@@ -1,0 +1,6 @@
+module Test2048
+typeinfo appTest2048.qmltypes
+prefer :/qt/qml/Test2048/
+Main 254.0 Main.qml
+depends QtQuick
+

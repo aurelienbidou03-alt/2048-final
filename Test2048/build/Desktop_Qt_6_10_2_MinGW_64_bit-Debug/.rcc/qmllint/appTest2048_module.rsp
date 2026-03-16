@@ -1,0 +1,14 @@
+-I
+C:/Users/aurel/Documents/GitHub/2048-FINAL/Test2048/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+C:/Users/aurel/Documents/GitHub/2048-FINAL/Test2048/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Test2048
+-I
+C:/Users/aurel/Documents/GitHub/2048-FINAL/Test2048/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.10.2/mingw_64/qml
+--resource
+C:/Users/aurel/Documents/GitHub/2048-FINAL/Test2048/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Test2048.qrc
+--resource
+C:/Users/aurel/Documents/GitHub/2048-FINAL/Test2048/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appTest2048_raw_qml_0.qrc
+--module
+Test2048

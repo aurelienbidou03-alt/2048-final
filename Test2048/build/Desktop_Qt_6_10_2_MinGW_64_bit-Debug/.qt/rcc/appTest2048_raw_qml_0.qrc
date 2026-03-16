@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Test2048/">
+    <file alias="Main.qml">C:/Users/aurel/Documents/GitHub/2048-FINAL/Test2048/Main.qml</file>
+  </qresource>
+</RCC>
+
